@@ -1,4 +1,4 @@
-# twitter-disaster-kaggle
+# Twitter Disaster Kaggle
 
 **About:** Entry to the [Natural Language Processing with Disaster Tweets Kaggle Competition](https://www.kaggle.com/competitions/nlp-getting-started), with the best accuracy of 0.81642, ranking 158/810.
 
